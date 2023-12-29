@@ -1,13 +1,13 @@
 # Application-de-location-des-voitures-E-Cars-
 E-Cars représente une application de location de véhicules développée en langage C, utilisant une interface en ligne de commande (cmd). Cette solution permet la consultation en temps réel de la disponibilité des véhicules au sein de l'agence, ainsi qu'un suivi détaillé des locations, offrant des historiques journaliers et mensuels.
-#Fonctionnalités des Utilisateurs
+# Fonctionnalités des Utilisateurs
 Les utilisateurs ont accès à un ensemble de fonctionnalités spécifiques pour interagir avec le système de location de voitures. Voici un aperçu des principales fonctionnalités offertes aux utilisateurs :
 
-#1) Consulter la Liste des Voitures :
+## 1) Consulter la Liste des Voitures :
 
-Affiche la liste des voitures disponibles pour la location.
-Permet aux utilisateurs de parcourir les véhicules en fonction de leurs besoins.
-2) Consulter l'Historique des Locations :
+Consiste à : - Afficher la liste des voitures disponibles pour la location.
+            - Permettre aux utilisateurs de parcourir les véhicules en fonction de leurs besoins.
+## 2) Consulter l'Historique des Locations :
 
 Fournit un aperçu complet des locations précédentes, y compris les dates et les détails associés.
 3) Louer une Voiture :
