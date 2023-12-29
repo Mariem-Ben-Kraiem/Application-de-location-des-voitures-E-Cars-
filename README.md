@@ -12,19 +12,19 @@ Cette fonctionnalité consiste à :
 
 ### 2) Consulter l'Historique des Locations
 
-Fournit un aperçu complet des locations précédentes, y compris les dates et les détails associés.
+Fournir un aperçu complet des locations précédentes, y compris les dates et les détails associés.
 
 ### 3) Louer une Voiture
 
-Permet aux utilisateurs de sélectionner et de réserver un véhicule pour une période spécifique.
+Permettre aux utilisateurs de sélectionner et de réserver un véhicule pour une période spécifique.
 
 ### 4) Afficher la Description d'une Voiture
 
-Affiche des informations détaillées sur une voiture spécifique, y compris sa description et son état.
+Afficher des informations détaillées sur une voiture spécifique, y compris sa description et son état.
 
 ### 5) Retourner une Voiture
 
-Facilite le processus de retour d'un véhicule après la période de location.
+Faciliter le processus de retour d'un véhicule après la période de location.
 
 ### 6) Afficher les Voitures Louées
 
@@ -42,3 +42,48 @@ Permet aux utilisateurs de consulter les détails et les coûts associés à leu
 
 Permet aux utilisateurs de modifier leurs informations de compte, y compris le mot de passe.
 
+## Fonctions de Test des Administrateurs
+
+Les fonctions de test des administrateurs jouent un rôle crucial dans la vérification et l'assurance de la qualité du processus de location de voitures. Ces fonctions visent à identifier et résoudre les éventuels problèmes, assurant ainsi une expérience utilisateur fluide. Voici comment les fonctions de test des administrateurs contribuent au bon déroulement du système :
+
+### 1) Consulter la Liste des Voitures
+
+- Les administrateurs peuvent examiner régulièrement la liste des voitures pour garantir que toutes les informations sont à jour et correctes.
+
+### 2) Consulter l'Historique des Locations
+
+- Vérification régulière de l'historique des locations pour détecter tout comportement anormal ou des problèmes liés aux transactions.
+
+### 3) Louer une Voiture
+
+- Les administrateurs peuvent utiliser cette fonction pour simuler des locations, s'assurant ainsi que le processus se déroule sans erreur.
+
+### 4) Afficher la Description d'une Voiture
+
+- Vérification de la précision des informations affichées sur la description des voitures pour garantir des descriptions cohérentes.
+
+### 5) Supprimer une Voiture en Panne
+
+- Identification et retrait rapide des voitures en panne pour éviter qu'elles ne soient proposées aux utilisateurs.
+
+### 6) Modifier la Description et l'État d'une Voiture
+
+- Les administrateurs peuvent tester la capacité à mettre à jour les informations relatives aux véhicules pour assurer une gestion efficace de la flotte.
+
+### 7) Retourner une Voiture
+
+- Simulation du retour d'un véhicule pour s'assurer que le processus est correctement enregistré et que les coûts associés sont calculés avec précision.
+
+### 8) Afficher les Voitures Louées
+
+- Vérification de la liste des voitures actuellement louées pour gérer efficacement la disponibilité des véhicules.
+
+### 9) Afficher les Voitures en Panne
+
+- Les administrateurs peuvent s'assurer que les voitures nécessitant des réparations ou des inspections sont correctement signalées.
+
+### 10) Afficher la Facture de Location de la Voiture
+
+- Test régulier de la fonction d'affichage des factures pour garantir la transparence et l'exactitude des coûts de location.
+
+Ces fonctions de test jouent un rôle vital dans la maintenance et l'amélioration continues du système, garantissant une expérience utilisateur fiable et sécurisée. Les administrateurs utilisent ces fonctions (régulièrement) afin de maintenir la qualité opérationnelle du service de location de voitures.
