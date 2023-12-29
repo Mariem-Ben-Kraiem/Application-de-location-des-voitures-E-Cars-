@@ -29,11 +29,16 @@ Facilite le processus de retour d'un véhicule après la période de location.
 ### 6) Afficher les Voitures Louées
 
 Affiche la liste des voitures actuellement louées par l'utilisateur.
-7) Envoyer des Réclamations :
 
-Permet aux utilisateurs de signaler des problèmes ou de faire des réclamations concernant le service.
-8) Afficher la Facture de Location des Voitures :
+### 7) Envoyer des Réclamations
+
+Permet aux utilisateurs de signaler des problèmes ou de faire des réclamations concernant l'état de la voiture louée.
+
+### 8) Afficher la Facture de Location des Voitures
 
 Permet aux utilisateurs de consulter les détails et les coûts associés à leurs locations précédentes.
-9) Changer le Compte Utilisateur :
+
+### 9) Changer le Compte Utilisateur
+
 Permet aux utilisateurs de modifier leurs informations de compte, y compris le mot de passe.
+
