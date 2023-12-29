@@ -1,7 +1,7 @@
 # Application-de-location-des-voitures-E-Cars-
 E-Cars représente une application de location de véhicules développée en langage C, utilisant une interface en ligne de commande (cmd). Cette solution permet la consultation en temps réel de la disponibilité des véhicules au sein de l'agence, ainsi qu'un suivi détaillé des locations, offrant des historiques journaliers et mensuels.
 
-## Captures d'Écran des Scénarios de Test
+## Captures d'Écran des Scénarios de Test (Cas optimistes et cas pessimistes)
 
 Afin d'offrir une vision plus concrète des différentes fonctionnalités du système de location de voitures, des captures d'écran ont été incluses pour illustrer des scénarios de test. Ces captures d'écran fournissent un aperçu visuel des interactions tant pour les utilisateurs que pour les administrateurs.
 
